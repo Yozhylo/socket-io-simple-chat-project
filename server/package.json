@@ -4,7 +4,8 @@
   "description": "simple web-chat project to learn basics of websockets & socket.io",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
   },
   "repository": {
     "type": "git",
@@ -14,7 +15,8 @@
     "chat",
     "web",
     "websocket",
-    "socket.io"
+    "socket.io",
+    "demo"
   ],
   "author": "Y. Miroshnyk",
   "license": "ISC",
