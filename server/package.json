@@ -1,0 +1,24 @@
+{
+  "name": "socket-io-simple-chat-project",
+  "version": "1.0.0",
+  "description": "simple web-chat project to learn basics of websockets & socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "to-be-created"
+  },
+  "keywords": [
+    "chat",
+    "web",
+    "websocket",
+    "socket.io"
+  ],
+  "author": "Y. Miroshnyk",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.1"
+  }
+}
